@@ -1,4 +1,4 @@
 ok
-
-
-PRIMERA MODIFICACION
+nombe
+apellido
+edad
