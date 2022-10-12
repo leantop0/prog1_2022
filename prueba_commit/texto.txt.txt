@@ -1,1 +1,4 @@
 ok
+nombre
+apellido
+edad 
